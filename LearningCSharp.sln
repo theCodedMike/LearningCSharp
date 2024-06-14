@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchesAndLoops", "Branche
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListTutorial", "ListTutorial\ListTutorial.csproj", "{F906433B-09C3-4CED-995D-3CB845BE30C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramStructure", "ProgramStructure\ProgramStructure.csproj", "{2DFED79D-BD07-4DDE-80D1-73319D62C957}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{F906433B-09C3-4CED-995D-3CB845BE30C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F906433B-09C3-4CED-995D-3CB845BE30C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F906433B-09C3-4CED-995D-3CB845BE30C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DFED79D-BD07-4DDE-80D1-73319D62C957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFED79D-BD07-4DDE-80D1-73319D62C957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFED79D-BD07-4DDE-80D1-73319D62C957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFED79D-BD07-4DDE-80D1-73319D62C957}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
